@@ -1,7 +1,7 @@
 Project Title:
 Eye Exercise
 
-Description of Project (minimum of 20 words):
+Description of Project:
 This project allowed us to practice our JavaScript and CSS skills to create a webpage. On this webpage, there is a set of eyes that follow your mouse as you hover around the screen. You need to assign the same style to both elements so the eyes move in a synchronized way. It is a great way to test these skills.
 
 How to Run:
